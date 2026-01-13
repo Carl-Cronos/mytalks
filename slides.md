@@ -4,8 +4,8 @@ highlighter: shiki
 css: unocss
 colorSchema: dark
 transition: fade-out
-title: VVS 2 Style Guide
-exportFilename: VVS 2 Style Guide
+title: Style Guide
+exportFilename: Style Guide
 lineNumbers: false
 drawings:
   persist: false
@@ -17,7 +17,7 @@ glowSeed: 228
 routerMode: hash
 ---
 
-# VVS 2 Style Guide
+# Style Guide
 
 Shaojiang, Kaka, Jack, Daniele @ 2025/11/13
 
@@ -25,7 +25,7 @@ Shaojiang, Kaka, Jack, Daniele @ 2025/11/13
 clicks: 4
 ---
 
-# Styling Issues in VVS 1
+# Styling Issues in the current App
 
 <div class="mt-8 text-left space-y-10 relative">
   <transition name="issues-fade" mode="out-in">
